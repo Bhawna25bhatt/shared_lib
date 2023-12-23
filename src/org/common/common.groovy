@@ -2,7 +2,7 @@
 
 package org.common
 
-class CommonFuncs {
+class Common {
     def initialize() {
         terraform.init
         echo 'Initializing...'
