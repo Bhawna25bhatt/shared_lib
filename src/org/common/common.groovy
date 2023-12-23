@@ -4,7 +4,7 @@ package org.common
 
 class CommonFuncs {
     def initialize() {
-        // Your initialization logic here
+        terraform init
         echo 'Initializing...'
     }
 
