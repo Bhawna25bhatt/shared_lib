@@ -1,5 +1,13 @@
+// src/org/common/CommonFuncs.groovy
+
 package org.common
 
-def initialize() {
-    terraform init
+class CommonFuncs {
+    def initialize() {
+        // Your initialization logic here
+        echo 'Initializing...'
+    }
+
+    // Add more functions as needed
 }
+
