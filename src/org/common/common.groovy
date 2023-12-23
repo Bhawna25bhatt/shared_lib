@@ -1,6 +1,6 @@
 // src/org/common/CommonFuncs.groovy
 
-package org.common
+package org.common.common.groovy
 
 class commonFuncs {
     def initialize() {
